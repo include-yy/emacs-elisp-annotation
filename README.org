@@ -1,4 +1,5 @@
 #+TITLE: Emacs and Elisp manual annotation
 
-本项目是一次对 Emacs manual 和 Elisp manual 做注的尝试，希望能够在编排上对源文档进行改进以方便阅读和理解。（也许我会在有一定规模之后放到单独的网站上）
-WIP。
+本项目是一次对 Emacs manual 和 Elisp manual 做注的尝试，希望能够在编排上对源文档进行改进以方便阅读和理解。（也许我会在有一定规模之后放到单独的网站上）WIP。
+
+我应该会使用 racket 的 [[https://docs.racket-lang.org/scribble/][scribble]] 来写这份文档？
