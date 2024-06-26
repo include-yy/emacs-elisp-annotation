@@ -1,0 +1,5 @@
+#+TITLE: Emacs and Elisp manual annotation
+
+本项目是一次对 Emacs manual 和 Elisp manual 做注的尝试，希望能够在编排上对源文档进行改进以方便阅读和理解。
+
+WIP。
