@@ -1,0 +1,6 @@
+*.bak
+*.html
+*.css
+*.js
+
+/emacs-annotate-build
